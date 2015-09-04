@@ -1,2 +1,3 @@
-script:
-  - npm install yaspeller && node ./node_modules/.bin/yaspeller .
+dependencies:
+  pre:
+    - npm install yaspeller && node ./node_modules/.bin/yaspeller .
