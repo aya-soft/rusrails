@@ -1,17 +1,21 @@
 {
   "excludeFiles": [
     ".git",
-    "libs",
-    "node_modules"
+    "tmp",
+    "log",
+    "vendor",
+    "config"
   ],
   "lang": "ru",
   "fileExtensions": [
-    ".md",
-    ".js",
-    ".css"
+    ".md"
   ],
   "dictionary": [
-    "контрол",
-    "юзабилити"
+    "гитхаб(е|а|ом)",
+    "дифф(ы)",
+    "коммит(ы)",
+    "конфиг(и)",
+    "реквест(ы)",
+    "форк(у|и|ам)",
   ]
 }
