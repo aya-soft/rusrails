@@ -54,5 +54,5 @@
     "(от|)рендерен(а|ы|)",
     "(от|)рендер(и|я)т(с|ь|я|)"
   ],
-  ignoreCapitalization: true
+  "ignoreCapitalization": true
 }
