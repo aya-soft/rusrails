@@ -11,6 +11,10 @@ public/assets
 tmp/**/*
 tmp
 .bundle
+.idea
+.ruby-version
+.ruby-gemset
+.rvmrc
 webrat.log
 .sass-cache/
 tmp/
